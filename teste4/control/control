@@ -1,0 +1,11 @@
+Package: whatsapp-webapp
+Version: 1.0
+Architecture: all
+Maintainer: Christiaan Diedericks <info@thefanclub.co.za>
+Installed-Size: 781
+Depends: google-chrome-stable | google-chrome | google-chrome-unstable
+Section: utility
+Priority: optional
+Homepage: http://www.thefanclub.co.za
+Description: WhatsApp Web Application
+ Launch icon for WhatsApp Web Application.
